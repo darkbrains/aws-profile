@@ -1,5 +1,8 @@
 # AWS Set Profile Windows script
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/Blackdocs-Cloud/aws-profile.git)
+[![GitHub](https://img.shields.io/badge/GitHub-Releases-green)](https://github.com/Blackdocs-Cloud/aws-profile/releases)
+
 ## Configuration
 
 ### First step need to clone repository or download that file [Click for download](https://drive.google.com/file/d/1mA4H08-zVM9D8ZQID64-ACCl0FaZGfTb/view?usp=sharing)
